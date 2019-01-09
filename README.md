@@ -6,6 +6,11 @@ Some tech stack and more using everyday... It's diary of [studio OsArts](https:/
 - [ ] To have cool goals!
 - [ ] To have worthy job [достойную работу]
 
+## Development
+
+### Git
+
+- [x] :heart: [Как работать в Git с форком](https://github.com/OsArts/stack/issues/29#howto)
 
 ## OS
 
@@ -28,4 +33,3 @@ Some tech stack and more using everyday... It's diary of [studio OsArts](https:/
 ## Diary
 
 ## Service
-
