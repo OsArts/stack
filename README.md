@@ -11,7 +11,7 @@ Some tech stack and more using everyday... It's diary of [studio OsArts](https:/
 ### Git
 
 - [x] :heart: [Как работать в Git с форком](https://github.com/OsArts/stack/issues/29#howto)
-- [ ] **GitHub Emoji** :link: [page](https://github.com/OsArts/stack/webdev/github_emoji_lib.md)
+- [ ] **GitHub Emoji** :link: [page](https://github.com/OsArts/stack/blob/master/webdev/github_emoji_lib.md)
 
 ## OS
 
