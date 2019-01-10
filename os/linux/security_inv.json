@@ -1,0 +1,9 @@
+{
+  "files": [
+    "~/.conkyrc",
+    "~/.bashrc",
+    "~/.zshrc",
+    "~/.profile",
+    "~/.bash_profile"
+  ]
+}
