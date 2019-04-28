@@ -25,6 +25,8 @@ Some tech stack and more using everyday... It's diary of [studio OsArts](https:/
 
 ## Design
 
+- [UI Kit](./design/ui-kit/UI-KIT.ru.md)
+
 ### Inkscape
 
 - [ ] Create PDF multypage from SVG
