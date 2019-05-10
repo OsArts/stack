@@ -13,4 +13,4 @@
 - [x] **ASO-аудит для App Store и Google Play**
   - `https://event.demio.com/join/BQPTVg2dVb40WyXV`
   - зареган
-  - 
+  - :green_heart: [webinar-aso-audit](https://appfollow.io/ru/blog/webinar-aso-audit-for-the-app-store-and-google-play)
