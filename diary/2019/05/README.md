@@ -68,9 +68,37 @@
 
 ---
 
+<<<<<<< HEAD
+## 27 (Mo)
+
+- [:dart: Покер планирования](https://ru.wikipedia.org/wiki/Покер_планирования)
+- https://www.google.ru/search?q=Git+решение+конфликтов
+  - [Git: Урок 10. :bird: Слияние веток и решение конфликтов слияния -DevColibri-](https://www.youtube.com/watch?v=Fq9gDH_u2no)
+
+:computer: **Git commands**
+
+> :warning: Сегодня столкнулся, точнее осправлял ошибку слияния (PR) двух веток. В одном файле был конфликт, разная инфа. Что и побудило к исправлению ошибок.
+
+- `git help stash`
+
+### Video
+
+- [GitHub Satellite - Opening Keynote](https://www.youtube.com/watch?v=xAbJkn4uRL4)
+
+### Pictures
+
+![6 hats](https://scontent.fhel5-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/15025438_1131048103615037_1105695257433803981_o.jpg?_nc_cat=103&efg=eyJpIjoidCJ9&_nc_ht=scontent.fhel5-1.fna&oh=66dfd311758fd3d503dc2a0f0b396c61&oe=5D5393FC&pathfinder=vladimir-pavlychev)
+
+> Метод 6 шляп для организации мышления
+
+### :jp: Japan music
+
+- :notes: [каникулы строгого режима - музыка](https://useraudio.net/search/каникулы-строгого-режима)
+=======
 ## 21 Tu
 
 - [x] **ASO-аудит для App Store и Google Play**
   - `https://event.demio.com/join/BQPTVg2dVb40WyXV`
   - зареган
   - :green_heart: [webinar-aso-audit](https://appfollow.io/ru/blog/webinar-aso-audit-for-the-app-store-and-google-play)
+>>>>>>> 0a44531bcaf817a3c3256901fa37cd078cbfca18
