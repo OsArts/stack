@@ -1,0 +1,20 @@
+---
+# 2019-09-13
+
+Day: 256
+Theme:
+  Congratulations:
+    - Get: nice
+    - Send: respect
+    - Coding: 
+      - Status: true
+      - Alert: "Have a cool #256Day"
+Habr:
+  KarmaPlus: 
+    - User: KeyJoo
+    - Click: true
+    - Help: "Upvote karma"
+    - StateNow: -1
+  Comment:
+  - Status: dublicate
+  - Url: 'https://habr.com/ru/company/regionsoft/blog/467275/'
