@@ -22,3 +22,7 @@ _Variants_
 
 :one: [getuikit.com](https://getuikit.com/changelog) <br>
 :two: [repo on github.com](https://github.com/uikit/uikit/blob/develop/CHANGELOG.md)
+
+### :ru: Russian version
+
+- [x] [3uikit.ru](https://3uikit.ru/)
