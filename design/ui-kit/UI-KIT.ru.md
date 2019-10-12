@@ -13,3 +13,12 @@ _UI_ _Kits_
 ![dark projects](https://cdn.dribbble.com/users/30951/screenshots/2602088/attachments/521086/4_-_dark_projects.png)
 
 - [Author](https://dribbble.com/JanLosert)
+
+---
+
+## Changelog examples
+
+_Variants_
+
+:one: [getuikit.com](https://getuikit.com/changelog) <br>
+:two: [repo on github.com](https://github.com/uikit/uikit/blob/develop/CHANGELOG.md)
